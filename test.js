@@ -1,0 +1,1 @@
+console.log("Hello, world! Here is a random number:", Math.random());
