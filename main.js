@@ -6,6 +6,6 @@ function generateFibonacci(n) {
     return fib.slice(0, n);
 }
 
-// Example: Generate the first 100 Fibonacci numbers
-const first100Fibonacci = generateFibonacci(100);
+// Example: Generate the first 200 Fibonacci numbers
+const first100Fibonacci = generateFibonacci(200);
 console.log(first100Fibonacci);
