@@ -1,1 +1,1 @@
-console.log("Hello world devops push");
+console.log("Hello world devops");
